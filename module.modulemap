@@ -1,0 +1,4 @@
+module MyPoint {
+  header "Sources/MyPoint.h"
+  export *
+}
